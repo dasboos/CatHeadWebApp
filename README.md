@@ -1,5 +1,5 @@
 # CatHeadWebApp
-<b>Fun, Free, Facile, Feline, JavaScript Web App Game</b>
+<b>CatHead, A Fun, Free, Facile, Feline, JavaScript Web App Game</b>
 
 NERD ALERT: CatHead is a graphicly-rich browser based game that combines the rendering power of WebGL using THREE.js, and the cross-platform functionality of ES6 and JavaScript.
 
